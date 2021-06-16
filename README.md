@@ -1,5 +1,5 @@
 ## Freshman instructions
 
-## obspy/binder-example
+## Excercise
 
-Simple most example how to setup a repository to use on mybinder.org. Launch it here: https://mybinder.org/v2/gh/obspy/binder-example/master
+Show map of the area, load data, plot seismic records
