@@ -39,6 +39,7 @@
 # Cell 0 - Preparation: load packages, set some basic options  
 # %matplotlib inline
 
+%matplotlib inline
 from obspy import *
 from obspy.clients.fdsn import Client
 import numpy as np
