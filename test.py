@@ -38,7 +38,7 @@
 # + {"code_folding": [0]}
 # Cell 0 - Preparation: load packages, set some basic options  
 # %matplotlib inline
-import obspy 
+
 from obspy import *
 from obspy.clients.fdsn import Client
 import numpy as np
